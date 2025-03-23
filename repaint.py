@@ -3,8 +3,7 @@
 # 1. Repaint this picture in black and white tones with grey gradients.
 # 2. Repaint as negative. Black background, white text.
 
-## Solution:
-# 1.
+## ChatGPT:
 # I see you've uploaded an image.
 # I've converted the image to black and white with gray gradients while maintaining clarity:
 
@@ -30,7 +29,7 @@ bw_image_path = out_path + "/photo_bw.jpg"
 bw_image.save(bw_image_path)
 bw_image_path
 
-# 2.
+## ChatGPT:
 # I've converted the image to a negative version with white text on a  black background.
 
 # Convert the grayscale image to a negative (invert colors)
