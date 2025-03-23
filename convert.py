@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # Please load the image so I can convert it to JPG format for you.
 
 import os
