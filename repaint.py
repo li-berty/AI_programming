@@ -47,4 +47,4 @@ negative_image_path = out_path + "/photo_negative.jpg"
 negative_image.save(negative_image_path)
 negative_image_path
 
-print("Your redrawn images are contained in the directory", out_path)
+print("Your redrawn images are contained in the directory: ", out_path)
